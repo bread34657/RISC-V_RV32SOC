@@ -9,4 +9,11 @@ try to make a soc for practicing
 
 ![](https://hackmd.io/_uploads/B1JGPCyY3.png)
 
+# Env
+* Ubuntu 20.04
+* Risc-V GNU toolchain
+* Verilator
+* GTKwave
+
+
 The core folder contain RTL sourcecode,and the testbench folder include testbench related files.
