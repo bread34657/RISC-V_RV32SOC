@@ -2,10 +2,10 @@
 try to make a soc for practicing  
 
 # Spec  
-Five stage pipeline single core  
-RV32IM inst arch  
-CSR for Mode  
-CLINT for timer interrupt  
+* Five stage pipeline single core  
+* RV32IM inst arch  
+* CSR for Mode  
+* CLINT for timer interrupt  
 
 ![](https://hackmd.io/_uploads/B1JGPCyY3.png)
 
