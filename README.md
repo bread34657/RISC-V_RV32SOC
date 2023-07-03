@@ -1,7 +1,7 @@
 # RISC-V_RV32SOC
 try to make a soc for practicing  
 
-#Spec  
+# Spec  
 five stage pipeline single core  
 RV32IM inst arch  
 CSR for Mode  
