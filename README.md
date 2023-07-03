@@ -2,7 +2,7 @@
 try to make a soc for practicing  
 
 # Spec  
-five stage pipeline single core  
+Five stage pipeline single core  
 RV32IM inst arch  
 CSR for Mode  
 CLINT for timer interrupt  
