@@ -1,3 +1,5 @@
+# Testbench
+support Verilator ,RISC-V offical instruction test,simple os and GTKwave.  
 
 tb make(verilator):
     verilator -Wall --cc --exe --build testbench.cpp sim_mem.cpp soc_top.v --trace
